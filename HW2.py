@@ -1,4 +1,4 @@
-#Name:
+#Name: Jude Martin
 #Class: 5th Hour
 #Assignment: HW2
 
@@ -10,7 +10,7 @@ Lincoln_park=1000
 str_variable = "pink_lemonade"
 Jimmy=True
 #3. Print all three variables on the same print function (at the same time).
-print(Jimmy, str_variable)
+print(Jimmy, str_variable, Lincoln_park)
 #4. Create a variable that asks the user to input an integer.
 Metallica=(int(input("insert integer")))
 #5. Add the integer variable from #2 with the integer from #4 and print the result.
