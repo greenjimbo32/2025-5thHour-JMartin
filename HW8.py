@@ -28,7 +28,7 @@ if c % 2 == 0:
 else:
     print("c is odd")
 #7. Create a variable whose value is 3 + a randomly generated number between 1 and 20
-jake=3+random.randint(1,10)
+jake=3+random.randint(1,20)
 print(jake)
 #8. Make an if statement that prints if the variable from #7 is greater than, less than, or equal to A + B + C.
 if jake > a+b+c:
