@@ -18,7 +18,7 @@ print(c)
 mmm= (a + b )/c
 print(mmm)
 #5. Round the result from #3 up or down, and then determine if it is even or odd.
-round(mmm)
+mmm=round(mmm)
 if mmm % 2 == 0:
     print("even")
 else:
@@ -44,7 +44,7 @@ print(list[3])
 i = 1
 while i <= 100:
     print (i)
-    i += 1
+    i += i
 #11. Create a list containing the names of five other students in the classroom.
 students=["dylon","bryson","aiden","samuel","ivan"]
 for student in students:
